@@ -1,1 +1,0 @@
-#source: https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser?country=WEOEUR&fuel=Energy%20supply&indicator=ElecGenByFuel
